@@ -1,8 +1,8 @@
 # Exercise 15 - Exploring CSS Grid
 
-For this exercise, let's ...
+For this exercise, let's practice using CSS Grid to create some funky layouts.
 
-All of the colour codes you need are in your `style.css` file, though you can use a different colour palette if you are so inclined. The image that you need are in the `images` folder as well.
+Detailed instructions for what CSS to add are in your your `style-start.css` file.
 
 ## Desired outcome
 
