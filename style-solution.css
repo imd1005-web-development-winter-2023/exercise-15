@@ -61,7 +61,7 @@
   /* Use grid-template-columns to set four equal width columns */
   grid-template-columns: repeat(4, 1fr);
 
-  /* Use grid-template-rows to set two rows each with an equal height */
+  /* Use grid-template-rows to set four rows each with an equal height */
   grid-template-rows: repeat(4, 1fr);
 
   /* Set the gap to 2rem to add spacing around each grid item in the contaiern */

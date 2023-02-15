@@ -60,7 +60,7 @@ TASK 1
 
   /* Use grid-template-columns to set four equal width columns */
 
-  /* Use grid-template-rows to set two rows each with an equal height */
+  /* Use grid-template-rows to set four rows each with an equal height */
 
   /* Set the gap to 2rem to add spacing around each grid item in the contaiern */
 }
